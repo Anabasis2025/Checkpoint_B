@@ -22,8 +22,8 @@ The dataset was sourced via API from [Polygon.io](https://polygon.io/). I also c
 
 ## Repository Contents
 
-- `Krug_Checkpoint_B_Final(v2).ipynb` - Jupyter Notebook code
-- `Krug_Checkpoint_B_Final(v2).html` - HTML
+- `Krug_Checkpoint_B_Final(v2) (1).ipynb` - Jupyter Notebook code
+- `Krug_Checkpoint_B_Final(v2) (1).html` - HTML
 - `Kyle Krug_Checkpoint_Assignment_B.docx` - Research report
 - `attf_polygon_data_extended (1).csv` - Daily close prices for 22 securities across four sleeves from October 2015 - October 2025
 - `requirements.txt` - Dependencies
